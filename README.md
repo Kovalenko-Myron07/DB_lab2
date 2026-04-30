@@ -69,7 +69,7 @@ CREATE TABLE Asset_Allocation (
 ```
 </details>
 
-## 3. Результати виконання (Скріншоти):
+## 3. Результати виконання:
 <img width="357" height="254" alt="image" src="https://github.com/user-attachments/assets/1dba97ca-5605-45da-ac34-a776930c6375" />
 <img width="370" height="209" alt="image" src="https://github.com/user-attachments/assets/5940fdba-2826-4e33-ba00-a2ac708cd7a5" />
 <img width="498" height="229" alt="image" src="https://github.com/user-attachments/assets/73eba358-d5db-4015-86e5-03d76fed710f" />
