@@ -72,12 +72,9 @@ CREATE TABLE Asset_Allocation (
 ## 3. Результати виконання:
  [Переглянути всі скріншоти у папці](./screenshots/)
 
- ####
+####
 ![Структура таблиць](./screenshots/tables_structure.jpg)
  
- #### Таблиця Category 
-![Category](./screenshots/category.png)
-
 #### Таблиця Category 
 ![Category](./screenshots/category.jpg)
 
