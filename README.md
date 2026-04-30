@@ -72,23 +72,26 @@ CREATE TABLE Asset_Allocation (
 ## 3. Результати виконання:
  [Переглянути всі скріншоти у папці](./screenshots/)
 
- #### Таблиця Category (Категорії)
+ ####
+![Структура таблиць](./screenshots/tables_structure.jpg)
+ 
+ #### Таблиця Category 
 ![Category](./screenshots/category.png)
 
-#### Таблиця Room (Приміщення)
-![Room](./screenshots/room.png)
+#### Таблиця Category 
+![Category](./screenshots/category.jpg)
 
-#### Таблиця Employee (Співробітники)
-![Employee](./screenshots/employee.png)
+#### Таблиця Room 
+![Room](./screenshots/room.jpg)
 
-#### Таблиця Asset (Майно)
-![Asset](./screenshots/asset.png)
+#### Таблиця Employee 
+![Employee](./screenshots/employee.jpg)
 
-#### Таблиця Asset_Allocation (Журнал)
-![Allocation](./screenshots/allocation.png)
+#### Таблиця Asset 
+![Asset](./screenshots/asset.jpg)
 
-![Структура таблиць](./screenshots/tables_structure.png)
-
+#### Таблиця Asset_Allocation 
+![Allocation](./screenshots/allocation.jpg)
 ## 4. Висновки
 
 У результаті виконання лабораторної роботи:
