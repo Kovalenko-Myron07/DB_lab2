@@ -70,12 +70,7 @@ CREATE TABLE Asset_Allocation (
 </details>
 
 ## 3. Результати виконання:
-<img width="357" height="254" alt="image" src="https://github.com/user-attachments/assets/1dba97ca-5605-45da-ac34-a776930c6375" />
-<img width="370" height="209" alt="image" src="https://github.com/user-attachments/assets/5940fdba-2826-4e33-ba00-a2ac708cd7a5" />
-<img width="498" height="229" alt="image" src="https://github.com/user-attachments/assets/73eba358-d5db-4015-86e5-03d76fed710f" />
-<img width="572" height="224" alt="image" src="https://github.com/user-attachments/assets/628d502e-8351-414f-860a-1fc2c3342bbb" />
-<img width="771" height="272" alt="image" src="https://github.com/user-attachments/assets/3b5f6292-ffed-411a-8567-5170602f60cd" />
-<img width="583" height="254" alt="image" src="https://github.com/user-attachments/assets/1671d92e-85cf-4068-977b-32fca85b8ef2" />
+ [Переглянути всі скріншоти у папці](./screenshots/)
 
 
 ## 4. Висновки
