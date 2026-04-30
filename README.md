@@ -72,6 +72,22 @@ CREATE TABLE Asset_Allocation (
 ## 3. Результати виконання:
  [Переглянути всі скріншоти у папці](./screenshots/)
 
+ #### Таблиця Category (Категорії)
+![Category](./screenshots/category.png)
+
+#### Таблиця Room (Приміщення)
+![Room](./screenshots/room.png)
+
+#### Таблиця Employee (Співробітники)
+![Employee](./screenshots/employee.png)
+
+#### Таблиця Asset (Майно)
+![Asset](./screenshots/asset.png)
+
+#### Таблиця Asset_Allocation (Журнал)
+![Allocation](./screenshots/allocation.png)
+
+![Структура таблиць](./screenshots/tables_structure.png)
 
 ## 4. Висновки
 
