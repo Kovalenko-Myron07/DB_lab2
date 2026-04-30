@@ -72,7 +72,7 @@ CREATE TABLE Asset_Allocation (
 ## 3. Результати виконання:
  [Переглянути всі скріншоти у папці](./screenshots/)
 
-####
+#### Cтворення всіх таблиць у PostgreSQL:
 ![Структура таблиць](./screenshots/tables_structure.jpg)
  
 #### Таблиця Category 
